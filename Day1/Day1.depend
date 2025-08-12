@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1754028789 source:c:\users\haris\onedrive\desktop\_\m.e\day1\day1\logic.c
+	"head.h"
+
+1754027961 c:\users\haris\onedrive\desktop\_\m.e\day1\day1\head.h
+
+1754028829 source:c:\users\haris\onedrive\desktop\_\m.e\day1\day1\main.c
+	<assert.h>
+	"head.h"
+
