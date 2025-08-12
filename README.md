@@ -140,8 +140,11 @@ Format the code so it’s easy to read (consistent indentation, naming conventio
 Goal of the Approach
 
 Clarity → Code split into header, main, and logic files.
+
 Scalability → New problems can be added easily without breaking existing code.
+
 Version tracking → GitHub keeps a record of progress and changes.
+
 Professional presentation → README acts as a portfolio document.
 
 ## 🛠 How to Compile & Run
