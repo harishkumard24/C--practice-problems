@@ -1,6 +1,6 @@
 # C Practice Problems
 
-This repository contains my solutions to the **Fast Track C Practice Problems** from **Manipal School of Information Sciences (MSIS), MIT**.  
+This repository contains my solutions to the **Fast Track C Practice Problems**
 Problems are organized into folders `Day1` through `Day7`, following the official practice problem set.
 
 C Practice Problems/
