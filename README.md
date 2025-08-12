@@ -122,11 +122,12 @@ Development Process
 Read the problem statement from the PDF.
 Break down each problem into smaller steps (input, processing, output).
 Write the logic in a separate function in operations.c.
-Declare the function in header.h so it can be used in main.c.
+Declare the function in header.h so it can be used in main.c.  
 Call the function from main.c to test it.
 Test with sample inputs, making sure the output matches expectations.
 Document the code with comments for clarity.
 Format the code so it’s easy to read (consistent indentation, naming conventions).
+
 ---
 
 Goal of the Approach
