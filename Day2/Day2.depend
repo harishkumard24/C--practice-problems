@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1754390993 source:c:\users\haris\onedrive\desktop\_\m.e\day1\day2\main.c
+	<assert.h>
+	"DAY2HEAD.h"
+
+1754141678 c:\users\haris\onedrive\desktop\_\m.e\day1\day2\day2h.h
+
+1754391031 source:c:\users\haris\onedrive\desktop\_\m.e\day1\day2\operation_d2.c
+	"DAY2HEAD.h"
+	<stdio.h>
+
+1754391028 c:\users\haris\onedrive\desktop\_\m.e\day1\day2\day2head.h
+
