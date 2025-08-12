@@ -117,10 +117,29 @@ C Practice Problems/
 6. Telephone directory (binary mode) with add/delete/edit/search  
 
 ---
+Development Process
+
+Read the problem statement from the PDF.
+Break down each problem into smaller steps (input, processing, output).
+Write the logic in a separate function in operations.c.
+Declare the function in header.h so it can be used in main.c.
+Call the function from main.c to test it.
+Test with sample inputs, making sure the output matches expectations.
+Document the code with comments for clarity.
+Format the code so it’s easy to read (consistent indentation, naming conventions).
+---
+
+Goal of the Approach
+
+Clarity → Code split into header, main, and logic files.
+Scalability → New problems can be added easily without breaking existing code.
+Version tracking → GitHub keeps a record of progress and changes.
+Professional presentation → README acts as a portfolio document.
 
 ## 🛠 How to Compile & Run
 Open each folder in [Code::Blocks](https://www.codeblocks.org/) **or** compile using GCC or even open in VS code but use gcc to compile:
 ```bash
 gcc main.c operations.c -o program
 ./program
+
 
