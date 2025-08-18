@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1755453906 source:c:\users\haris\onedrive\desktop\_\m.e\day1\patterns_and_menu_driven\main.c
+	<stdio.h>
+	"header.h"
+
+1755457562 c:\users\haris\onedrive\desktop\_\m.e\day1\patterns_and_menu_driven\header.h
+
+1755453911 source:c:\users\haris\onedrive\desktop\_\m.e\day1\patterns_and_menu_driven\operations.c
+	<stdio.h>
+	"header.h"
+
